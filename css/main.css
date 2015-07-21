@@ -1,0 +1,27 @@
+body {
+  background: url(/images/fox.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-text-size-adjust: 100%;
+}
+h1 {
+   font-family: Helvetica, Arial, sans-serif;
+   opacity: 1;
+   font-weight: 700;
+   font-size: 60px
+}
+.wrapper {
+  background-color: #EBEBE0;
+  opacity: 0.3;
+  width: 400px;
+  height: 400px;
+  border-radius: 400px;
+  margin: -250px 0 0 -200px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  text-align: center;
+  line-height: 340px;
+}
